@@ -30,7 +30,7 @@ function Header() {
         </div>
 
         {/* Search */}
-        <div className="hidden sm:flex item-center h-10 rounded-md flex-grow cursor-pointer bg-#38bdf8 hover:bg-#38bdf8">
+        <div className="hidden sm:flex item-center h-10 rounded-md flex-grow cursor-pointer bg-blue-400 hover:bg-blue-400">
           <input
             className="p-2 h-full w-6 flex-grow flex-shrink rounded-l-md focus:outline-none px-4"
             type="text"
